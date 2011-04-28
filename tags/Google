@@ -1,12 +1,6 @@
 {
     "ver": "gitmark.0.2", 
     "creator": "aaronbassett", 
-    "hash": "6b53c95c9e2100af257db213ba3a2fb4", 
-    "uri": "http://www.thisislevelup.com/", 
-    "title": "Level Up - Boutique web development agency"
-}{
-    "ver": "gitmark.0.2", 
-    "creator": "aaronbassett", 
     "hash": "8f0aff6ed1cafea4ea4a8ce30528e7ba", 
     "uri": "http://py-googlemaps.sourceforge.net/", 
     "title": "googlemaps \u2013 Google Maps and Local Search APIs in Python &mdash; googlemaps v1.0.2 documentation"
