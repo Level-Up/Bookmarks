@@ -10,4 +10,10 @@
     "hash": "8f0aff6ed1cafea4ea4a8ce30528e7ba", 
     "uri": "http://py-googlemaps.sourceforge.net/", 
     "title": "googlemaps \u2013 Google Maps and Local Search APIs in Python &mdash; googlemaps v1.0.2 documentation"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "aaronbassett", 
+    "hash": "f3973ab8209f75cbf74b6b9901a6ae68", 
+    "uri": "http://pypi.python.org/pypi/vanity/1.0", 
+    "title": "Python Package Index : vanity 1.0"
 }
