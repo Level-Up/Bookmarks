@@ -16,4 +16,10 @@
     "hash": "f3973ab8209f75cbf74b6b9901a6ae68", 
     "uri": "http://pypi.python.org/pypi/vanity/1.0", 
     "title": "Python Package Index : vanity 1.0"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "aaronbassett", 
+    "hash": "a7ab864f308167eb9a163d0ded25bfcc", 
+    "uri": "http://docs.djangoproject.com/en/dev/ref/contrib/admin/admindocs/", 
+    "title": "Django | The Django admin documentation generator | Django documentation"
 }
