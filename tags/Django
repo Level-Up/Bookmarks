@@ -22,4 +22,10 @@
     "hash": "75605c6318b0158d005aad4534887c42", 
     "uri": "https://github.com/streeter/django-ticketing", 
     "title": "streeter/django-ticketing - GitHub"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "aaronbassett", 
+    "hash": "8feb842942c9616a0915962156697075", 
+    "uri": "https://github.com/jamespacileo/django-pure-pagination", 
+    "title": "jamespacileo/django-pure-pagination - GitHub"
 }
