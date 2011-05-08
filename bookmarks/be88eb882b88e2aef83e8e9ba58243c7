@@ -1,0 +1,10 @@
+{
+    "hash": "be88eb882b88e2aef83e8e9ba58243c7", 
+    "rights": "CC BY", 
+    "creator": "aaronbassett", 
+    "uri": "http://pypi.python.org/pypi/pytest-incremental", 
+    "private": false, 
+    "time": "2011-05-08T08:34:45Z", 
+    "msg": "Python incremental test runner", 
+    "title": "Python Package Index : pytest-incremental 0.2.0"
+}
