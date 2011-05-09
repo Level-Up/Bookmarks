@@ -34,4 +34,10 @@
     "hash": "6f88e05251e069179a216be71fd3b8ab", 
     "uri": "http://www.djangocanvas.com/", 
     "title": "Django Canvas"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "aaronbassett", 
+    "hash": "7f8080be378d499f1b23fbda3fc45466", 
+    "uri": "http://streamhacker.com/2011/01/03/django-application-conventions/", 
+    "title": "Django Application Conventions &laquo; streamhacker.com"
 }
