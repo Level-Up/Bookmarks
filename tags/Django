@@ -40,4 +40,10 @@
     "hash": "7f8080be378d499f1b23fbda3fc45466", 
     "uri": "http://streamhacker.com/2011/01/03/django-application-conventions/", 
     "title": "Django Application Conventions &laquo; streamhacker.com"
+}{
+    "ver": "gitmark.0.2", 
+    "creator": "aaronbassett", 
+    "hash": "0ad3be0ccd17d8f37704359dec37e8c0", 
+    "uri": "http://pypi.python.org/pypi/dogslow/0.1", 
+    "title": "Python Package Index : dogslow 0.1"
 }

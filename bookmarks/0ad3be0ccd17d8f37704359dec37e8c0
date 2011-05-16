@@ -1,0 +1,10 @@
+{
+    "hash": "0ad3be0ccd17d8f37704359dec37e8c0", 
+    "rights": "CC BY", 
+    "creator": "aaronbassett", 
+    "uri": "http://pypi.python.org/pypi/dogslow/0.1", 
+    "private": false, 
+    "time": "2011-05-16T14:14:48Z", 
+    "msg": "Log slow requests in Django", 
+    "title": "Python Package Index : dogslow 0.1"
+}
